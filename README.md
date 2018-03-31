@@ -1,4 +1,4 @@
-# dencentralized-market
+# decentralized-market
 A decentralized Market System
 (will soon update with truffle framework)
 # How is Concensus reached
