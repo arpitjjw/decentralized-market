@@ -1,5 +1,5 @@
-# dencentralised-market
-A decentralised Market System
+# dencentralized-market
+A decentralized Market System
 (will soon update with truffle framework)
 # How is Concensus reached
 -- The Seller list a item on Decentralised platform using a Product ID and a secret Random key
